@@ -2,8 +2,8 @@
 nota_a = 0
 nota_b = 0
 
-a = float(input("Please enter the student A grade on the test: "))
-b = float(input("Please enter the student B grade on the test: "))
+a = float(input("Please enter the student grade on test 1: "))
+b = float(input("Please enter the student grade on test 2: "))
 
 def media_nota(a, b):
     
